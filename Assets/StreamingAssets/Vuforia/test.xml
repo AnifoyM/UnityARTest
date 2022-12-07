@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="ARtarget_xiaoCpa_01" size="1.000000 1.000000" />
+    <ImageTarget name="ARtarget_bqb_01" size="1.000000 1.025907" />
+    <ImageTarget name="ARtarget_jiaran_01" size="1.000000 1.135878" />
+    <ImageTarget name="91340986_p0_master1200" size="1.000000 1.393728" />
+  </Tracking>
+</QCARConfig>
